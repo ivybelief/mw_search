@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Dictionary Search",
+  "description": "This extension allows a user to search highlighted text in Merriam-Webster dictionary.",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
